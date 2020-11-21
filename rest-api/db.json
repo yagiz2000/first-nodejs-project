@@ -1,0 +1,40 @@
+{
+  "envanter": [
+    {
+      "tipi": "Marlboro",
+      "quantity": "5 adet",
+      "price": 15,
+      "id": 2
+    },
+    {
+      "tipi": "Yumurta",
+      "quantity": "20 paket",
+      "price": 15,
+      "id": 4
+    },
+    {
+      "tipi": "Ekmek",
+      "quantity": "20 adet",
+      "price": 1.5,
+      "id": 5
+    },
+    {
+      "tipi": "Sakız",
+      "quantity": "20 adet",
+      "price": 1,
+      "id": 6
+    },
+    {
+      "tipi": "Süt",
+      "quantity": "20 adet",
+      "price": 5,
+      "id": 7
+    },
+    {
+      "tipi": "Baldo Pirinç",
+      "quantity": "7 paket",
+      "price": 15,
+      "id": 8
+    }
+  ]
+}
